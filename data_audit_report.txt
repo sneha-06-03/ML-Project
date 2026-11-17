@@ -1,0 +1,29 @@
+PLFS DATASET INSPECTION REPORT
+==================================================
+
+Rows: 159796
+Columns: 11
+
+COLUMN NAMES:
+['AGE', 'MARST', 'REL', 'GEDU_LVL', 'TEDU_LVL', 'FORM_EDU', 'SEC', 'ST', 'ACWS', 'MULT', 'LFPR_TARGET']
+
+MISSING VALUES:
+AGE            0
+MARST          0
+REL            0
+GEDU_LVL       0
+TEDU_LVL       0
+FORM_EDU       0
+SEC            0
+ST             0
+ACWS           0
+MULT           0
+LFPR_TARGET    0
+
+DUPLICATE ROWS:
+637
+
+TARGET DISTRIBUTION:
+LFPR_TARGET
+0    102439
+1     57357
